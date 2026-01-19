@@ -1,0 +1,9 @@
+# Config file for GitHub Pages portfolio
+
+title: "Elena Nina Portfolio"
+logo: "images/logo.png"       # mettre le chemin vers ton logo si tu en as
+description: "Portfolio de projets Python et AI – AI Agent, scripts, et plus"
+show_downloads: true           # afficher la section pour télécharger fichiers
+theme: "minimal"               # thème du site (minimal, slate, jekyll-theme-cayman, etc.)
+lang: "fr"                     # langue du site
+
