@@ -1,15 +1,15 @@
-------
+---
 layout: default
 ---
 
 <div class="cv-container">
-  <img src="20241011_153653~6.jpg" alt="![Photo d'Elena-ia7](" class="cv-photo">
+  <img src="20241011_153653~6.jpg " alt="Photo d'Elena-ia7" class="cv-photo">
 
   <div class="cv-content">
     <h1>👋 Bonjour, je suis Elena</h1>
 
     <p>
-      Débutante en <strong>Python</strong> et <strong>Intelligence Artificielle</strong>,
+      Débutante en <strong>Python</strong> et <strong>Intelligence Artificielle</strong>, 
       je construis des projets pratiques pour apprendre et progresser.
     </p>
 
@@ -29,11 +29,11 @@ layout: default
 
     <h2>📫 Contact</h2>
     <p>
-      GitHub : <a href="https://github.com/ton-username">github.com/ton-username</a>
+      GitHub :
+      <a href="https://github.com/ton-username">github.com/ton-username</a>
     </p>
   </div>
 </div>
-
 
 <style>
 .cv-container {
@@ -44,8 +44,8 @@ layout: default
 }
 
 .cv-photo {
-  width: 160px;
-  height: 160px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
