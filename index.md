@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Photo d'Elena-ia7](/images/photo.jpg)
+![Photo d'Elena-ia7](20241011_153653~6.jpg)
 
 # 👋 Bonjour, je suis Elena
 
