@@ -1,26 +1,58 @@
----
+------
 layout: default
 ---
 
-![Photo d'Elena-ia7](20241011_153653~6.jpg)
+<div class="cv-container">
+  <img src="20241011_153653~6.jpg" alt="![Photo d'Elena-ia7](" class="cv-photo">
 
-# 👋 Bonjour, je suis Elena
+  <div class="cv-content">
+    <h1>👋 Bonjour, je suis Elena</h1>
 
-Bienvenue sur mon portfolio GitHub 👩‍💻  
-Je suis débutante en **Python** et **Intelligence Artificielle**.
+    <p>
+      Débutante en <strong>Python</strong> et <strong>Intelligence Artificielle</strong>,
+      je construis des projets pratiques pour apprendre et progresser.
+    </p>
 
-## 🤖 Mon projet principal
-### PortfolioBot
-Un agent IA local capable :
-- d’analyser la mémoire du PC
-- de rechercher des dossiers intelligemment
-- de fonctionner sans internet
+    <h2>🤖 Projet principal</h2>
+    <p>
+      <strong>PortfolioBot</strong> — un agent IA local capable d’analyser le PC,
+      rechercher des dossiers intelligemment et fonctionner sans internet.
+    </p>
 
-## 🛠️ Compétences
-- Python
-- IA locale (Ollama)
-- Git & GitHub
-- Automatisation
+    <h2>🛠️ Compétences</h2>
+    <ul>
+      <li>Python</li>
+      <li>IA locale (Ollama)</li>
+      <li>Git & GitHub</li>
+      <li>Automatisation</li>
+    </ul>
 
-## 📫 Me contacter
-- GitHub : https://github.com/ton-username
+    <h2>📫 Contact</h2>
+    <p>
+      GitHub : <a href="https://github.com/ton-username">github.com/ton-username</a>
+    </p>
+  </div>
+</div>
+
+
+<style>
+.cv-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.cv-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.cv-content {
+  max-width: 600px;
+}
+</style>
+
