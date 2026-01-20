@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+![Photo d'Elena-ia7](/images/photo.jpg)
+
+# 👋 Bonjour, je suis Elena
+
+Bienvenue sur mon portfolio GitHub 👩‍💻  
+Je suis débutante en **Python** et **Intelligence Artificielle**.
+
+## 🤖 Mon projet principal
+### PortfolioBot
+Un agent IA local capable :
+- d’analyser la mémoire du PC
+- de rechercher des dossiers intelligemment
+- de fonctionner sans internet
+
+## 🛠️ Compétences
+- Python
+- IA locale (Ollama)
+- Git & GitHub
+- Automatisation
+
+## 📫 Me contacter
+- GitHub : https://github.com/ton-username
